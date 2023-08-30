@@ -1,2 +1,3 @@
 # opencore
-Hackintosh project using OpenCore
+
+Saved EFI folder in the Hackintosh project using OpenCore.
