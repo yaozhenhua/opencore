@@ -229,11 +229,11 @@
 				<key>disable-external-gpu</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-alldata</key>
-				<data>AQUSAAAIAACHAQAA</data>
+				<data>AQUKAAAIAACHAQAA</data>
 				<key>framebuffer-con1-enable</key>
 				<integer>1</integer>
 				<key>framebuffer-con2-alldata</key>
-				<data>AgQKAAAIAACHAQAA</data>
+				<data>AwYKAAAEAACHAQAA</data>
 				<key>framebuffer-con2-enable</key>
 				<integer>1</integer>
 				<key>framebuffer-fbmem</key>
