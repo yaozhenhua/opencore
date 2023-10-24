@@ -26,7 +26,7 @@ The computer is no longer available so this EFI is no longer under maintenance. 
 - AppleALC is to support the audio with proper `alcid` in config.plist.
 - During installation, a random "device-id" is specified for iGPU otherwise UI doesn't show up. However, the parameter
   "AAPL,ig-platform-id" must be specified correctly.
-- UEFI signing and Windows secure boot are not configured.
+- UEFI secure boot and Windows bit locker are not configured.
 
 During the boot-up, for some reason the screen is blank initially. One must press and hold power button until the
 display backlight is off, then press it again then everything will work. Sleep and wake work.
